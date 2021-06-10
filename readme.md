@@ -1,6 +1,6 @@
 # Hubstaff Time and Activity Report
 
-This is an unofficial library for retrieving the Time and Activity report.
+This is an unofficial self-hosted API for retrieving the Time and Activity report.
 
 ## Getting started
 
