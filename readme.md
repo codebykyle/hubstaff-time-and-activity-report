@@ -16,7 +16,7 @@ HUBSTAFF_ORGANIZATION_ID=
 ```
 
 ## Run from the command line
-Install python dependencies (you should consider doing this in a venv):
+Install python dependencies (consider doing this in a venv):
 
 `pip install -r requirements.txt`
 
